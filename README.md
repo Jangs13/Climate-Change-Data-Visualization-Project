@@ -40,7 +40,5 @@ For a detailed overview of the project, findings, and methodology, please refer 
 
 Contributions to this project are welcome. If you encounter any issues or have suggestions for improvement, please open an issue or submit a pull request.
 
-## License
 
-This project is licensed under the [MIT License](LICENSE).
 
